@@ -22,7 +22,7 @@
 		<tr><td>name</td><td>emailId</td><td>age</td></tr>
 	</table>
 </div>
-<table id="data" border="1" style="width:100%">
+<table id="data" border="1" style="width:50%">
 <tr>
 <td>name</td>
 <td>emailId</td>
